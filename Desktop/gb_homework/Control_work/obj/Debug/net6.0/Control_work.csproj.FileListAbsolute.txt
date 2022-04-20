@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\gb_homework\Control_work\bin\Debug\net6.0\Control_work.exe
+C:\Users\acer\Desktop\gb_homework\Control_work\bin\Debug\net6.0\Control_work.deps.json
+C:\Users\acer\Desktop\gb_homework\Control_work\bin\Debug\net6.0\Control_work.runtimeconfig.json
+C:\Users\acer\Desktop\gb_homework\Control_work\bin\Debug\net6.0\Control_work.dll
+C:\Users\acer\Desktop\gb_homework\Control_work\bin\Debug\net6.0\ref\Control_work.dll
+C:\Users\acer\Desktop\gb_homework\Control_work\bin\Debug\net6.0\Control_work.pdb
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.AssemblyInfo.cs
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.dll
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\ref\Control_work.dll
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.pdb
+C:\Users\acer\Desktop\gb_homework\Control_work\obj\Debug\net6.0\Control_work.genruntimeconfig.cache
