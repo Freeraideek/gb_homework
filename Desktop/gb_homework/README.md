@@ -6,4 +6,4 @@
 ## 4. Дальше прописал цикл *foreach*
 ## 5. И в конце вывел получившейся массив.
 ## 6. Прикладываю скрин блок-схемы.
-![Скрин блок-схемы](Kontrolnaya.png)
+[Скрин блок-схемы](https://app.diagrams.net/#G1KqPRYLH3dXjnliQwxuJn0czsRaIsM88F)
